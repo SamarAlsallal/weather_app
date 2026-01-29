@@ -18,6 +18,19 @@ This project demonstrates clean architecture, API integration, and professional 
  - REST API Integration
  - HTTP Package
 
+## Requirements
+- Flutter 3.0+
+- Dart 3.0+
+- Internet connection
+## Installation
+1. Clone the repo:
+   git clone https://github.com/username/weather-app.git
+2. Go to the project directory:
+   cd weather-app
+3. Install dependencies:
+   flutter pub get
+4. Run the app:
+   flutter run
 # Screenshots
   -App preview 
 https://github.com/SamarAlsallal/weather_app/blob/main/screenshots/app_preview.jpg
@@ -29,3 +42,5 @@ https://github.com/SamarAlsallal/weather_app/blob/main/screenshots/app_preview.j
   https://github.com/SamarAlsallal/weather_app/blob/main/screenshots/condition_two.png
   https://github.com/SamarAlsallal/weather_app/blob/main/screenshots/condition_three.png
   https://github.com/SamarAlsallal/weather_app/blob/main/screenshots/condition_four.png
+## Author
+Samar Alsallal - [GitHub](https://github.com/SamarAlsallal)
