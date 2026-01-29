@@ -19,5 +19,11 @@ This project demonstrates clean architecture, API integration, and professional 
  - HTTP Package
 
 # Screenshots
-  # App preview 
+  -App preview 
 https://github.com/SamarAlsallal/weather_app/blob/main/screenshots/app_preview.jpg
+  -Empty State (No City Selected)
+   https://github.com/SamarAlsallal/weather_app/blob/main/screenshots/no_weather.png
+  -Weather States (Dynamic Theme)
+  https://github.com/SamarAlsallal/weather_app/blob/main/screenshots/condition_two.png
+  https://github.com/SamarAlsallal/weather_app/blob/main/screenshots/condition_three.png
+  https://github.com/SamarAlsallal/weather_app/blob/main/screenshots/condition_four.png
