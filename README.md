@@ -1,16 +1,23 @@
-# weather_app
+# Weather App (Flutter)
+A clean and modern Flutter weather application that displays real-time weather data using WeatherAPI.
+The app is built with Cubit (BLoC State Management) and features a dynamic UI theme that changes based on weather conditions such as sunny, cloudy, rainy, and snowy weather.
+This project demonstrates clean architecture, API integration, and professional Flutter state management practices
 
-A new Flutter project.
+# Features
+ - 🔍 Search weather by city name
+ - 🌡 Display current temperature
+ - 🔼 Max temperature & 🔽 Min temperature
+ - 🎨 Dynamic UI theme based on weather condition
+ - ⚡ State management using Cubit (BLoC)
+ - 📱 Clean & responsive UI
 
-## Getting Started
+# Tech Stack
+ - Flutter & Dart
+ - Cubit (flutter_bloc) – State Management
+ - WeatherAPI – Weather Data Provider
+ - REST API Integration
+ - HTTP Package
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+  # App preview 
+https://github.com/SamarAlsallal/weather_app/blob/main/screenshots/app_preview.jpg
