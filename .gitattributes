@@ -1,6 +1,6 @@
-windows/** linguist-vendored
-linux/** linguist-vendored
-macos/** linguist-vendored
-android/** linguist-vendored
-ios/** linguist-vendored
-web/** linguist-vendored
+windows/** linguist-vendored=true
+linux/** linguist-vendored=true
+macos/** linguist-vendored=true
+android/** linguist-vendored=true
+ios/** linguist-vendored=true
+web/** linguist-vendored=true
