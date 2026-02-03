@@ -22,6 +22,7 @@ This project demonstrates clean architecture, API integration, and professional 
 - Flutter 3.0+
 - Dart 3.0+
 - Internet connection
+- 
 ## Installation
 1. Clone the repo:
    git clone https://github.com/username/weather-app.git
